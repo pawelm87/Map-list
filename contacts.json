@@ -1,5 +1,4 @@
-{
-    "contacts": [
+[
                     {
                         "id": 1,
                         "firstName": "paul",
@@ -25,5 +24,4 @@
                         "firstName": "luka",
                         "lastName": "kow"
                     }
-    ]
-}
+]
